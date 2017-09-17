@@ -1,2 +1,2 @@
 # kaggle-titanic-survival
-Kaggle knowledge competition - Titanic Survival Prediction
+Titanic: Machine Learning from Disaster
